@@ -1,1 +1,3 @@
-# user-blog-service
+# spring-security-jwt-example
+
+Reference : https://jwt.io/
